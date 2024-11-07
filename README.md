@@ -1,4 +1,12 @@
-## Hi there 👋
+## Welcome to my GitHub page!
+
+A quick professional summary:
+
+- I've been a professional software engineer since 2011
+- I've been an engineering manager since Jan 2022, leading a team of five
+- Coming soon: my resume
+- Check out [my blog](https://prog.blog)!
+- Dad of two, both nuts
 
 <!--
 **msteffen/msteffen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
