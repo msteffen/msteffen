@@ -4,7 +4,7 @@ A quick professional summary:
 
 - I've been a professional software engineer since 2011
 - I've been an engineering manager since Jan 2022, leading a team of five
-- Check out [my resumé](https://github.com/msteffen/cv/blob/main/cv.pdf)
+- Check out [my résumé](https://github.com/msteffen/cv/blob/main/cv.pdf)
 - Check out [my blog](https://prog.blog)!
 - Dad of two, both complete nuts
 
